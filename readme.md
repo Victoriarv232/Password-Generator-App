@@ -41,28 +41,6 @@ A simple and functional application built with **React Native** and **Expo**, de
 
    ```bash
    npm start
-   ```
-
----
-
-## Project Structure
-
-```
-bat-password-app/
-├── src/
-│   ├── components/
-│   │   ├── BatButton/
-│   │   │   ├── BatButton.tsx
-│   │   │   └── BatButtonStyles.ts
-│   │   ├── BatTextInput/
-│   │   │   ├── BatTextInput.tsx
-│   │   │   └── BatTextInputStyles.ts
-│   ├── services/
-│   │   └── passwordService.ts
-├── App.tsx
-├── package.json
-└── ...
-```
 
 ---
 
